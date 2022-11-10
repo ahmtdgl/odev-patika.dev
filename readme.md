@@ -13,22 +13,22 @@
 * js ile class ekleme ve seçilen elemanların görünümünü "checked" yapma
 ----
 ## eleman ekleme
-![](./todolist/gif/
+![](
 ekleme_AdobeExpress.gif
 )
 
 ---
 ## bütün elemanları silme
-![](./todolist/gif/hepsinisil_AdobeExpress.gif)
+![](hepsinisil_AdobeExpress.gif)
  
  ---
  ## tek eleman silme
 
- ![](./todolist/gif/
+ ![](
 xx.gif)
 
  ---
  ## localStorage kayıt
 
- ![](./todolist/gif/
+ ![](
 xxx.gif)
